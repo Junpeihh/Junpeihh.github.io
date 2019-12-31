@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>2019古风歌单网易</title>
+      <link href="/2019/12/31/yinyue01/"/>
+      <url>/2019/12/31/yinyue01/</url>
+      
+        <content type="html"><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="520" height="440" src="//music.163.com/outchain/player?type=0&amp;id=2829961453&amp;auto=1&amp;height=430"></iframe><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 音乐 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 古风 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>2019年的最后感慨</title>
       <link href="/2019/12/28/zuihou/"/>
       <url>/2019/12/28/zuihou/</url>

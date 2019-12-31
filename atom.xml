@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://junpeihh.github.io/"/>
-  <updated>2019-12-28T06:38:20.417Z</updated>
+  <updated>2019-12-31T05:59:37.318Z</updated>
   <id>http://junpeihh.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2019古风歌单网易</title>
+    <link href="http://junpeihh.github.io/2019/12/31/yinyue01/"/>
+    <id>http://junpeihh.github.io/2019/12/31/yinyue01/</id>
+    <published>2019-12-31T05:59:37.318Z</published>
+    <updated>2019-12-31T05:59:37.318Z</updated>
+    
+    <content type="html"><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="520" height="440" src="//music.163.com/outchain/player?type=0&amp;id=2829961453&amp;auto=1&amp;height=430"></iframe><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;520&quot; height=&quot;440&quot; src=&quot;//music.163.com/outchain/player?type=0&amp;am
+      
+    
+    </summary>
+    
+    
+      <category term="音乐" scheme="http://Junpeihh.github.io/categories/%E9%9F%B3%E4%B9%90/"/>
+    
+    
+      <category term="古风" scheme="http://Junpeihh.github.io/tags/%E5%8F%A4%E9%A3%8E/"/>
+    
+  </entry>
   
   <entry>
     <title>2019年的最后感慨</title>
