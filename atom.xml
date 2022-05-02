@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://junpeihh.github.io/"/>
-  <updated>2019-12-31T05:59:37.318Z</updated>
+  <updated>2020-03-06T16:00:00.000Z</updated>
   <id>http://junpeihh.github.io/</id>
   
   <author>
@@ -17,19 +17,81 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>三体世界</title>
+    <link href="http://junpeihh.github.io/2020/03/07/xiwanghuanxiang/"/>
+    <id>http://junpeihh.github.io/2020/03/07/xiwanghuanxiang/</id>
+    <published>2020-03-06T16:00:00.000Z</published>
+    <updated>2020-03-06T16:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><a href="https://github.com/Junpeihh/csdm-tc/blob/master/不才%20-%20夜航星.mp3" target="_blank" rel="noopener">https://github.com/Junpeihh/csdm-tc/blob/master/不才%20-%20夜航星.mp3</a></p><script>console.error("Error: [hexo-tag-aplayer] Unrecognized tag argument(2): autoplay=false");</script><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="520" height="440" src="//i.y.qq.com/v8/playsong.html?songid=127434646&amp;source=yqq#wechat_redirect"></iframe><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+      <category term="幻" scheme="http://Junpeihh.github.io/categories/%E5%B9%BB/"/>
+    
+    
+      <category term="幻" scheme="http://Junpeihh.github.io/tags/%E5%B9%BB/"/>
+    
+      <category term="世界" scheme="http://Junpeihh.github.io/tags/%E4%B8%96%E7%95%8C/"/>
+    
+      <category term="意义" scheme="http://Junpeihh.github.io/tags/%E6%84%8F%E4%B9%89/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2020婚宴感发</title>
+    <link href="http://junpeihh.github.io/2020/01/16/jiehun/"/>
+    <id>http://junpeihh.github.io/2020/01/16/jiehun/</id>
+    <published>2020-01-16T15:53:23.227Z</published>
+    <updated>2020-01-16T15:53:23.227Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>  时间总是过的飞快，如果我没记错，我两个舅舅的婚礼我都参加了吧！！！<br>第一次是我小时候，都还没记事的年纪；而这次我都21岁了，时间跨度挺快呢！</p><h1 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h1><p>其实这次的婚礼，挺意外呢！！<br>因为之前，给我说的都是办搬家酒，没有说是办婚礼，一开始还是有点意外的，但是也还行；<br>在请假回来前，都不知道，开始前5天左右知道的吧！！<br>13号我匆匆而来，到今天的结束，其实挺快的，过的比较充实。</p><h1 id="正"><a href="#正" class="headerlink" title="正"></a>正</h1><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+      <category term="日常" scheme="http://Junpeihh.github.io/categories/%E6%97%A5%E5%B8%B8/"/>
+    
+    
+      <category term="生活" scheme="http://Junpeihh.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+      <category term="日记" scheme="http://Junpeihh.github.io/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+      <category term="经历" scheme="http://Junpeihh.github.io/tags/%E7%BB%8F%E5%8E%86/"/>
+    
+      <category term="日常" scheme="http://Junpeihh.github.io/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
+  
+  <entry>
     <title>2019古风歌单网易</title>
     <link href="http://junpeihh.github.io/2019/12/31/yinyue01/"/>
     <id>http://junpeihh.github.io/2019/12/31/yinyue01/</id>
     <published>2019-12-31T05:59:37.318Z</published>
     <updated>2019-12-31T05:59:37.318Z</updated>
     
-    <content type="html"><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="520" height="440" src="//music.163.com/outchain/player?type=0&amp;id=2829961453&amp;auto=1&amp;height=430"></iframe><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="520" height="440" src="//music.163.com/outchain/player?type=0&amp;id=2829961453&amp;auto=1&amp;height=430"></iframe><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;520&quot; height=&quot;440&quot; src=&quot;//music.163.com/outchain/player?type=0&amp;am
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
       
     
     </summary>
@@ -49,13 +111,13 @@
     <published>2019-12-28T06:38:20.417Z</published>
     <updated>2019-12-28T06:38:20.417Z</updated>
     
-    <content type="html"><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=1411319408&amp;auto=1&amp;height=66"></iframe><h1 id="2019最后的感慨！"><a href="#2019最后的感慨！" class="headerlink" title="2019最后的感慨！"></a>2019最后的感慨！</h1><p><strong>最后一个月的最后几天了，总结一下今年自己的生活和经历吧！</strong></p><h2 id="首先是学习方面的"><a href="#首先是学习方面的" class="headerlink" title="首先是学习方面的"></a>首先是学习方面的</h2><p>可以说是什么都没有学会，从<strong>去年</strong>买了这个电脑开始，虽然说是要用来当学习的工具，但还不是自己瞎折腾，没有认真的使用过，算一下用它做了写什么吧！</p><p>1.<em>打游戏</em><br>2.<em>科学上网</em><br>3.<em>捣鼓了一下adobe全家桶</em><br>4.<em>尝试了黑苹果</em><br>5.<strong><em>弄个云服务器</em></strong><br>这个真的很伤，无论是国内还是国外的服务器，价格不是一般的贵，但是最近<a href="https://cloud.tencent.com/act/seckill?from=11659" target="_blank" rel="noopener">腾讯云</a>有个年末活动真的很心动，不管，等几天发了工资一定搞一个！！！<br>6.<em>最后就是这个博客了</em><br>这个得好好说一下，最开始实在我的服务器上部署的<em>halo</em>，但是服务器域名备案这些太麻烦了（主要是没钱 !)<br><img src="https://raw.githubusercontent.com/Junpeihh/csdm-tc/master/%E5%B0%8F%E4%B9%A6%E5%8C%A0/%E8%A1%A8%E6%83%851.jpg" alt=""><br>最后还是选着了hexo的博客，总体来说还是学到了一些东西</p><h2 id="其次是工作方面"><a href="#其次是工作方面" class="headerlink" title="其次是工作方面"></a>其次是工作方面</h2><p>总体来说和去年没啥太大的变化，</p><h2 id="愿我明年能够好一些吧！！！"><a href="#愿我明年能够好一些吧！！！" class="headerlink" title="愿我明年能够好一些吧！！！"></a>愿我明年能够好一些吧！！！</h2><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=1411319408&amp;auto=1&amp;height=66"></iframe><h1 id="2019最后的感慨！"><a href="#2019最后的感慨！" class="headerlink" title="2019最后的感慨！"></a>2019最后的感慨！</h1><p><strong>最后一个月的最后几天了，总结一下今年自己的生活和经历吧！</strong></p><h2 id="首先是学习方面的"><a href="#首先是学习方面的" class="headerlink" title="首先是学习方面的"></a>首先是学习方面的</h2><p>可以说是什么都没有学会，从<strong>去年</strong>买了这个电脑开始，虽然说是要用来当学习的工具，但还不是自己瞎折腾，没有认真的使用过，算一下用它做了写什么吧！</p><p>1.<em>打游戏</em><br>2.<em>科学上网</em><br>3.<em>捣鼓了一下adobe全家桶</em><br>4.<em>尝试了黑苹果</em><br>5.<strong><em>弄个云服务器</em></strong><br>这个真的很伤，无论是国内还是国外的服务器，价格不是一般的贵，但是最近<a href="https://cloud.tencent.com/act/seckill?from=11659" target="_blank" rel="noopener">腾讯云</a>有个年末活动真的很心动，不管，等几天发了工资一定搞一个！！！<br>6.<em>最后就是这个博客了</em><br>这个得好好说一下，最开始实在我的服务器上部署的<em>halo</em>，但是服务器域名备案这些太麻烦了（主要是没钱 !)<br><img src="https://cdn.jsdelivr.net/gh/Junpeihh/csdm-tc/%E5%B0%8F%E4%B9%A6%E5%8C%A0/%E8%A1%A8%E6%83%851.jpg" alt="表情1"><br>最后还是选着了hexo的博客，总体来说还是学到了一些东西</p><h2 id="其次是工作方面"><a href="#其次是工作方面" class="headerlink" title="其次是工作方面"></a>其次是工作方面</h2><p>总体来说和去年没啥太大的变化，</p><h2 id="愿我明年能够好一些吧！！！"><a href="#愿我明年能够好一些吧！！！" class="headerlink" title="愿我明年能够好一些吧！！！"></a>愿我明年能够好一些吧！！！</h2><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;330&quot; height=&quot;86&quot; src=&quot;//music.163.com/outchain/player?type=2&amp;amp
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
       
     
     </summary>
@@ -79,13 +141,13 @@
     <published>2019-12-24T05:32:03.236Z</published>
     <updated>2019-12-24T05:32:03.236Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
       
     
     </summary>
